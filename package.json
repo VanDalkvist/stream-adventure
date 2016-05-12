@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Stream practice.",
   "dependencies": {
+    "concat-stream": "^1.5.1",
     "split": "^1.0.0",
     "through2": "^2.0.1"
   },
