@@ -4,12 +4,13 @@
   "description": "Stream practice.",
   "dependencies": {
     "concat-stream": "^1.5.1",
+    "duplexer2": "latest",
     "request": "^2.72.0",
     "split": "^1.0.0",
+    "stream-combiner": "^0.2.2",
     "through2": "^2.0.1",
     "trumpet": "^1.7.2",
-    "websocket-stream": "^3.1.0",
-    "duplexer2": "latest"
+    "websocket-stream": "^3.1.0"
   },
   "devDependencies": {},
   "scripts": {
