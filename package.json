@@ -8,7 +8,8 @@
     "split": "^1.0.0",
     "through2": "^2.0.1",
     "trumpet": "^1.7.2",
-    "websocket-stream": "^3.1.0"
+    "websocket-stream": "^3.1.0",
+    "duplexer2": "latest"
   },
   "devDependencies": {},
   "scripts": {
